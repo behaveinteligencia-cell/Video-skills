@@ -1,0 +1,9 @@
+{
+  "name": "remotion-video-squad",
+  "version": "0.1.0",
+  "description": "Squad multi-agente que transforma um prompt em roteiro, arquitetura de cenas e código Remotion completo — pronto para rodar no Claude Code com Remotion Skills.",
+  "author": {
+    "name": "Agência Behave"
+  },
+  "keywords": ["remotion", "video", "animacao", "react", "motion", "squad"]
+}
